@@ -1,0 +1,52 @@
+#div-login {align-items: center; border: 1px solid rgb(141, 138, 138); width: 30%; height: 60%;
+  background-color: rgb(255, 255, 255); margin-left: 35%; margin-top: 2%; border-radius: 20px;}
+  
+.login-form input 
+{
+font-family: "Roboto", sans-serif;
+outline: 0;
+background: #ffffff;
+width: 80%;
+border: 1px solid rgba(22, 110, 226, 0.87);
+margin: 0 0 15px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 14px;
+margin-left: 10%;
+border-radius: 6px;
+}
+
+.login-form button
+{
+width: 40%;
+padding: 15px;
+background-color: rgb(48, 111, 206);
+border-radius: 7px;
+margin-left: 30%;
+border: 0;
+}
+
+.login-form button:hover,.form button:active,.form button:focus {
+background: rgb(38, 209, 240);
+}
+
+.login-form a 
+{
+text-decoration: none;
+}
+
+.btn2 
+{
+width: 50%;
+padding: 6px;
+margin-left: 27%;
+border: 0.50px solid silver;
+border-radius: 7px;
+font: normal 10pt Microsoft YaHei;
+}
+
+.forget {font: normal 10pt Sans-serif; margin-left: 35%; text-decoration: none;}
+.forget a {text-decoration: none;}
+
+.message {margin-left: 20%; font: normal 10pt arial;}
+.message a { text-decoration: none;}
