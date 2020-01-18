@@ -21,7 +21,7 @@ border-radius: 6px;
 .login-form button
 {
 width: 40%;
-padding: 15px;
+padding: 11px;
 background-color: rgb(48, 111, 206);
 border-radius: 7px;
 margin-left: 30%;
@@ -43,11 +43,11 @@ text-decoration: none;
 .btn2 
 {
 width: 48%;
-padding: 6px;
-margin-left: 27%;
+padding: 4px;
+margin-left: 25%;
 border: 0.50px solid silver;
 border-radius: 7px;
-font: normal 10pt Microsoft YaHei;
+font: normal 10pt Sans-serif;
 background: rgba(255, 255, 255, 0.993);
 color: black;
 }
