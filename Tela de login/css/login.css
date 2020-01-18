@@ -26,10 +26,13 @@ background-color: rgb(48, 111, 206);
 border-radius: 7px;
 margin-left: 30%;
 border: 0;
+font: normal 12pt Sans-serif;
+color: azure;
 }
 
 .login-form button:hover,.form button:active,.form button:focus {
 background: rgb(38, 209, 240);
+color: black;
 }
 
 .login-form a 
