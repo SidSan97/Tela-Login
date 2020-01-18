@@ -1,3 +1,5 @@
+body {margin: 0%; background: rgb(76, 75, 75);}
+
 #div-login {align-items: center; border: 1px solid rgb(141, 138, 138); width: 30%; height: 60%;
   background-color: rgb(255, 255, 255); margin-left: 35%; margin-top: 2%; border-radius: 20px;}
   
@@ -6,13 +8,13 @@
 font-family: "Roboto", sans-serif;
 outline: 0;
 background: #ffffff;
-width: 80%;
+width: 70%;
 border: 1px solid rgba(22, 110, 226, 0.87);
 margin: 0 0 15px;
 padding: 15px;
 box-sizing: border-box;
 font-size: 14px;
-margin-left: 10%;
+margin-left: 15%;
 border-radius: 6px;
 }
 
@@ -37,12 +39,14 @@ text-decoration: none;
 
 .btn2 
 {
-width: 50%;
+width: 48%;
 padding: 6px;
 margin-left: 27%;
 border: 0.50px solid silver;
 border-radius: 7px;
 font: normal 10pt Microsoft YaHei;
+background: rgba(255, 255, 255, 0.993);
+color: black;
 }
 
 .forget {font: normal 10pt Sans-serif; margin-left: 35%; text-decoration: none;}
