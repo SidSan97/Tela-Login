@@ -3,6 +3,10 @@ body {margin: 0%; background: rgb(76, 75, 75); display: flex; justify-content: c
 #div-login {border: 1px solid rgb(141, 138, 138); width: 420px; height: 60%;
             background-color: rgb(255, 255, 255); margin-top: 2%; 
             border-radius: 20px;}
+
+#check {margin-left: -18%;} 
+
+#checkword {margin-left: -33%;  font: 11pt 'Fira Sans', sans-serif; color: rgb(107, 108, 109);}
   
 .login-form input 
 {
