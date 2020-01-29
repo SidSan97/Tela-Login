@@ -9,13 +9,13 @@ document.getElementById('bt3').onmouseleave = function() {mouseLeave2()};
 
     function mouseEnter() 
      {
-      document.getElementById('bt1').style.background = 'black';
+      document.getElementById('bt1').style.background = 'rgb(76, 75, 75)';
       document.getElementById('bt1').style.color = 'white';
      }
 
      function mouseEnter1()
      {
-      document.getElementById('bt2').style.background = 'black';
+      document.getElementById('bt2').style.background = 'rgb(76, 75, 75)';
       document.getElementById('bt2').style.color = 'white';
      }
      
@@ -33,7 +33,7 @@ document.getElementById('bt3').onmouseleave = function() {mouseLeave2()};
 
      function mouseEnter2()
      {
-      document.getElementById('bt3').style.background = 'black';
+      document.getElementById('bt3').style.background = 'rgb(76, 75, 75)';
       document.getElementById('bt3').style.color = 'white';
      }
 
